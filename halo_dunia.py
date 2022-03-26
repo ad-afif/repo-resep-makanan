@@ -1,2 +1,3 @@
-print("Halo Dunia!")
-print("resep makanan")
+print("Dunia saat ini sudah berubah")
+print("resep makanan berhasil diperbarui")
+print("revisi ketiga")
